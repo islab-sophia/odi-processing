@@ -1,5 +1,5 @@
 # odi-processing
-Jupyter notebook for extracting plane images from omni-directional image
+Jupyter notebook for extracting plane images (Normal Field of View, NFoV) from omni-directional image
 
 ![ODI](P89.JPG)
 
